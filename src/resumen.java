@@ -1,6 +1,4 @@
-package com.resumen;
-
-public class Resumen1 {
+public class resumen {
 
 	public static void main(String[] args) {
 		
